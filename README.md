@@ -8,6 +8,9 @@
   <a href="https://kaggle.com/noha1mohammed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Noha Mohammed on Kaggle" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/noha-mohammed-523698370/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Noha Mohammed on LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 ---
